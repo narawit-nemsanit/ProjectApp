@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    },
+    "cmake.sourceDirectory": "F:/65312399/mbapp/accout/linux"
+}
